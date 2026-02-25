@@ -2,7 +2,7 @@
 
 /*
 ===========================
-📘 OPERADOR RESTO (%)
+     OPERADOR RESTO (%)
 ===========================
 
 % → retorna o RESTO da divisão
@@ -12,7 +12,7 @@ Ex:
 10 % 3 = 1
 4 % 2 = 0
 
-💡 Muito usado para:
+* Muito usado para:
 ✔ saber se número é par ou ímpar
 ✔ contadores
 ✔ repetições
@@ -29,3 +29,4 @@ $resultado = $a % $b;
 echo "Resultado = $resultado";
 
 ?>
+
