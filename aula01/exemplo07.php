@@ -2,7 +2,7 @@
 
 /*
 ===========================
-📘 SWITCH (igual vários IF)
+ SWITCH (igual vários IF)
 ===========================
 
 Usa quando testa UMA variável
@@ -35,3 +35,4 @@ switch($dia){
 }
 
 ?>
+
