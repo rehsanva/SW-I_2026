@@ -2,7 +2,7 @@
 
 /*
 ===========================
-📘 PRIMEIRO CÓDIGO PHP
+    PRIMEIRO CÓDIGO PHP
 ===========================
 
 ✔ echo → mostra algo na tela
@@ -13,12 +13,12 @@ echo "Olá Mundo";
 
 
 ===========================
-⚙️ COMO INICIAR PHP (XAMPP)
+ COMO INICIAR PHP (XAMPP)
 ===========================
 
 1. Abrir o XAMPP
 2. Start em:
-   - Apache ✅
+   - Apache 
    - MySQL (se precisar)
 
 3. Ir em:
@@ -44,3 +44,4 @@ echo "<br>";
 echo "Outra frase";
 
 ?>
+
