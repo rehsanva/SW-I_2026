@@ -2,7 +2,7 @@
 
 /*
 ===========================
-📘 OPERADORES DE COMPARAÇÃO
+ OPERADORES DE COMPARAÇÃO
 ===========================
 
 <   → menor
@@ -18,7 +18,7 @@ true  = verdadeiro (echo mostra 1)
 false = falso (echo mostra vazio)
 
 =======================================
-📘 IF / ELSE
+IF / ELSE
 if() verifica automaticamente se é TRUE
 
 if($resultado)
@@ -46,3 +46,4 @@ if ($resultado){
 }
 
 ?>
+
