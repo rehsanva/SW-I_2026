@@ -2,7 +2,7 @@
 
 /*
 ===========================
-📘 OPERADORES ARITMÉTICOS
+ OPERADORES ARITMÉTICOS
 ===========================
 
 +  → soma
@@ -31,3 +31,4 @@ $b = "5";
 echo "A soma é: " . ($a + $b);
 
 ?>
+
