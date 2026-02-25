@@ -2,7 +2,7 @@
 
 /*
 ===========================
-📘 OPERADORES LÓGICOS
+    OPERADORES LÓGICOS
 ===========================
 
 &&  → AND (E)
@@ -18,7 +18,7 @@ true  → 1
 false → vazio
 
 
-📌 REGRAS RÁPIDAS
+* REGRAS RÁPIDAS
 
 true && true   → true
 true && false  → false
@@ -39,3 +39,4 @@ $resultado = $a || $b;
 echo "Resultado = $resultado";
 
 ?>
+
