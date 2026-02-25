@@ -2,7 +2,7 @@
 
 /*
 ===========================
-📘 VARIÁVEIS EM PHP
+     VARIÁVEIS EM PHP
 ===========================
 
 ✔ Toda variável começa com $
@@ -22,7 +22,7 @@ $status = true;
 
 
 ===========================
-🔎 DEPURAÇÃO (VER VALORES)
+   DEPURAÇÃO (VER VALORES)
 ===========================
 
 var_dump($var);
@@ -33,7 +33,7 @@ print_r($var);
 
 
 ===========================
-📝 CONCATENAÇÃO
+       CONCATENAÇÃO
 ===========================
 
 "." → junta textos
@@ -73,3 +73,4 @@ echo "<br>";
 echo '$nome';
 
 ?>
+
